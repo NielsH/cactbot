@@ -58,6 +58,7 @@ timelines/test.txt
 timelines/ultima_weapon_ultimate.txt
 timelines/unending_coil_ultimate.txt
 timelines/yojimbo.txt
+timelines/saint-mociannes-arboretum.txt
 
 triggers/a1s.js
 triggers/a2s.js
@@ -131,3 +132,4 @@ triggers/temple_of_the_fist.js
 triggers/ultima_weapon_ultimate.js
 triggers/unending_coil_ultimate.js
 triggers/yojimbo.js
+triggers/saint-mociannes-arboretum.js

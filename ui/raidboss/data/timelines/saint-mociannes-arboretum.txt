@@ -1,0 +1,13 @@
+# Saint Mocianne's Arboretum
+
+hideall "--Reset--"
+hideall "--sync--"
+
+0 "--Reset--" sync /00:0839:.*is no longer sealed/ window 100000 jump 0
+
+# Rose Garden
+
+1000.0 "--sync--" sync /00:0839:Zymology will be sealed off/ window 1000,0
+1015.0 "Vine Probe" sync /Added new combatant Vine Probe/ window 60,5
+1030.0 "Extremely Bad Breath" sync /:Rose Garden:1468:/ window 5,5 jump 1000
+
